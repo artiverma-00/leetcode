@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/artiverma-00/leetcode/tree/master/0371-sum-of-two-integers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/artiverma-00/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
