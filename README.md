@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/artiverma-00/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/artiverma-00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/artiverma-00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/artiverma-00/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/artiverma-00/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/artiverma-00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/artiverma-00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
