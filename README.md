@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/artiverma-00/leetcode/tree/master/0035-search-insert-position) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/artiverma-00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/artiverma-00/leetcode/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/artiverma-00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/artiverma-00/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/artiverma-00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
