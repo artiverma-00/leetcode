@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/artiverma-00/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/artiverma-00/leetcode/tree/master/0069-sqrtx) |
 | [3312-sorted-gcd-pair-queries](https://github.com/artiverma-00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/artiverma-00/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/artiverma-00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/artiverma-00/leetcode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/artiverma-00/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artiverma-00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/artiverma-00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
