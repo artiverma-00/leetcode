@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/artiverma-00/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artiverma-00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/artiverma-00/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/artiverma-00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artiverma-00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/artiverma-00/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
