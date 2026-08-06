@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/artiverma-00/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/artiverma-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artiverma-00/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
