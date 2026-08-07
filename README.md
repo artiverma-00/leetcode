@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/artiverma-00/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/artiverma-00/leetcode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/artiverma-00/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artiverma-00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
