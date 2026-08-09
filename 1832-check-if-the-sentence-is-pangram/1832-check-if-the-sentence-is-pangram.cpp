@@ -8,12 +8,29 @@ public:
         }
 
        for (int i = 0; i < 26; i++) {
-            if (!alph[i]) return 0;
+            if (alph[i]==0) return 0;
         }
         return 1;
     
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
