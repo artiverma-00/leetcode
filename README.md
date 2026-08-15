@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/artiverma-00/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/artiverma-00/leetcode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artiverma-00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1108-defanging-an-ip-address](https://github.com/artiverma-00/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/artiverma-00/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/artiverma-00/leetcode/tree/master/1859-sorting-the-sentence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/artiverma-00/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
