@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/artiverma-00/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/artiverma-00/leetcode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artiverma-00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/artiverma-00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/artiverma-00/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/artiverma-00/leetcode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/artiverma-00/leetcode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artiverma-00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/artiverma-00/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/artiverma-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/artiverma-00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artiverma-00/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
