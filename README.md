@@ -253,5 +253,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/artiverma-00/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/artiverma-00/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
