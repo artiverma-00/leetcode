@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/artiverma-00/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/artiverma-00/leetcode/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/artiverma-00/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/artiverma-00/leetcode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artiverma-00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/artiverma-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/artiverma-00/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/artiverma-00/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/artiverma-00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
