@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/artiverma-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/artiverma-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/artiverma-00/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/artiverma-00/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/artiverma-00/leetcode/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artiverma-00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/artiverma-00/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/artiverma-00/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/artiverma-00/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artiverma-00/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/artiverma-00/leetcode/tree/master/0206-reverse-linked-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
