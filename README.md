@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/artiverma-00/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/artiverma-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0213-house-robber-ii](https://github.com/artiverma-00/leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/artiverma-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/artiverma-00/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
+| [0213-house-robber-ii](https://github.com/artiverma-00/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/artiverma-00/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/artiverma-00/leetcode/tree/master/0509-fibonacci-number) |
