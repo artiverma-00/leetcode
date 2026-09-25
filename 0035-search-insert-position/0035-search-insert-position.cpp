@@ -1,24 +1,27 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        int indx= nums.size();
+    int searchInsert(vector<int>& nums, int t) {
 
-        int s = 0 , e = nums.size()-1 , m ;
+        //using binary search
+        int n= nums.size();
+            int m ;
+        int s = 0 , e=nums.size()-1;
+        while(s<=e){
+             m = e + (s-e)/2;
 
-        while(s<= e){
-            m = e + (s-e)/2;
-
-            if(nums[m]==target){
-                indx = m;
-                break;
-            } else if (nums[m]<target){
-                s = m+1;
-
-            }else {
-            indx=m;
-            e=m-1;
-            }
+         if(nums[m]==t){
+           return m;
+           
+         }
+         else if(nums[m]<t){
+              s = m+1;
+         }
+         else{
+        
+         e = m-1;
+         
+         }
         }
-        return indx;
+        return s;
     }
 };
