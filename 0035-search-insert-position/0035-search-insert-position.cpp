@@ -4,10 +4,10 @@ public:
 
         //using binary search
         int n= nums.size();
-            int m ;
+          
         int s = 0 , e=nums.size()-1;
         while(s<=e){
-             m = e + (s-e)/2;
+            int m = e + (s-e)/2;
 
          if(nums[m]==t){
            return m;
