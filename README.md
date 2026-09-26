@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/artiverma-00/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/artiverma-00/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/artiverma-00/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/artiverma-00/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/artiverma-00/leetcode/tree/master/0088-merge-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/artiverma-00/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/artiverma-00/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/artiverma-00/leetcode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/artiverma-00/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/artiverma-00/leetcode/tree/master/0509-fibonacci-number) |
