@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/artiverma-00/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/artiverma-00/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/artiverma-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/artiverma-00/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
@@ -95,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/artiverma-00/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/artiverma-00/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/artiverma-00/leetcode/tree/master/0322-coin-change) |
+| [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/artiverma-00/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/artiverma-00/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/artiverma-00/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
+| [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
