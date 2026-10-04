@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/artiverma-00/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/artiverma-00/leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/artiverma-00/leetcode/tree/master/0575-distribute-candies) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/artiverma-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/artiverma-00/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/artiverma-00/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/artiverma-00/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/artiverma-00/leetcode/tree/master/0409-longest-palindrome) |
+| [0575-distribute-candies](https://github.com/artiverma-00/leetcode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/artiverma-00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/artiverma-00/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/artiverma-00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
