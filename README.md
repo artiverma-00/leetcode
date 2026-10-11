@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/artiverma-00/leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/artiverma-00/leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/artiverma-00/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/artiverma-00/leetcode/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/artiverma-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/artiverma-00/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/artiverma-00/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/artiverma-00/leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/artiverma-00/leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/artiverma-00/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artiverma-00/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/artiverma-00/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/artiverma-00/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0682-baseball-game](https://github.com/artiverma-00/leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artiverma-00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/artiverma-00/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
